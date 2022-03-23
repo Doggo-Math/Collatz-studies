@@ -1,5 +1,5 @@
 print('This is a Collatz conjecture calculator')
-while 1 != 0:
+while True:
     a = x = int(input('Type in an integer: '))
     i=0
     while x != 1:
